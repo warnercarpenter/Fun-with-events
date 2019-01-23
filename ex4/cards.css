@@ -1,4 +1,5 @@
 .cardContainer {
+    margin: auto;
     display: flex;
     width: 700px;
     justify-content: center;
@@ -17,4 +18,9 @@
     border-radius: 20px;
     margin: 5px;
     min-height: 75px;
+}
+
+#formContainer {
+    text-align: center;
+    margin-bottom: 20px
 }
