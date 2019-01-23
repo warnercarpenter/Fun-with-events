@@ -1,0 +1,15 @@
+.blue {
+    color: blue;
+}
+
+.large {
+    font-size: 10em;
+}
+
+.bordered {
+    border: 1px dotted goldenrod;
+}
+
+.rounded {
+    border-radius: 25%;
+}

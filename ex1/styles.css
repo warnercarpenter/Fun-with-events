@@ -1,0 +1,18 @@
+.articleBox {
+    display: flex;
+    justify-content: space-around
+}
+
+.textBox {
+    width: 300px;
+    min-height: 20px;
+    word-wrap: break-word
+}
+
+.blue {
+    border: solid 1px blue;
+}
+
+.red {
+    border: solid 1px red;
+}
