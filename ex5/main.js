@@ -1,6 +1,3 @@
-const firstStage = document.getElementById("stage1")
-const secondStage = document.getElementById("stage2")
-
 const DragDropManager = Object.create(null, {
     init: {
       value: () => {
